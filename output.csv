@@ -1,0 +1,5 @@
+id,account,amount,balance_after_transaction,transaction_type
+1,1,10002.00,10002.00,1
+2,1,786.00,17076.00,1
+3,1,100.00,16976.00,2
+4,1,1100.00,18076.00,1
